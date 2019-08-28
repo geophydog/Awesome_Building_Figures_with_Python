@@ -13,5 +13,6 @@ Jupyter notebook of  map-making with Python and you will find what you want if y
 
 ## Tips
 ```
-You can look for some examples in files above. However, I recommend you find some examples in file "Beautiful_Figures_by_Python.html" if you want to do it duickly.
+You can look for some examples in files above. However, I recommend you find some examples 
+in file "Beautiful_Figures_by_Python.html" if you want to do it duickly.
 ```

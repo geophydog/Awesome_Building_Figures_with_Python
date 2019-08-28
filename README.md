@@ -6,8 +6,8 @@ Jupyter notebook of  map-making with Python and you will find what you want if y
 ***
 
 ## Structures
-- Jupyter Lab (Beautiful_Figures_by_Python.ipynb)
-- HTML (Beautiful_Figures_by_Python.html)
+- Jupyter Lab [(Beautiful_Figures_by_Python.ipynb)](https://github.com/geophydog/Awesome_Building_Figures_with_Python/blob/master/Beautiful_Figures_by_Python.ipynb)
+- HTML [(Beautiful_Figures_by_Python.html)](https://github.com/geophydog/Awesome_Building_Figures_with_Python/blob/master/Beautiful_Figures_by_Python.html)
 
 ***
 
